@@ -25,7 +25,6 @@ https://nouhailler.github.io/nutritor-fdroid/repo
 
 Ou scanner ce QR code directement depuis F-Droid :
 
-Générer le QR code avec : qrencode -o docs/qrcode.png "https://nouhailler.github.io/nutritor-fdroid/repo"
 ![QR Code](docs/qrcode.png)
 
 ### Étape 3 — Installer Nutritor
