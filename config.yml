@@ -1,0 +1,8 @@
+repo_url: "https://nouhailler.github.io/nutritor-fdroid/repo"
+repo_name: "Nutritor"
+repo_description: "Dépôt officiel de Nutritor — assistant nutritionnel & digestif"
+repo_icon: "icon.png"
+keystorepass: "nutritor2026"
+keypass: "nutritor2026"
+repo_keyalias: "nutritor"
+keydname: "CN=Nutritor, O=Patrick, C=CH"
